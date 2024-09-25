@@ -2,7 +2,7 @@
 
 ## 🚀 Indie Developer | 🌍 Full-time Entrepreneur | 🧑‍💻 Core Coolify Developer
 
-I'm an indie developer and full-time entrepreneur, currently embarking on an exciting building in public journey on [Twitter](https://x.com/peaklabs_dev). Join me as I share insights into my life as a core developer at Coolify and my entrepreneurial journey in the tech world!
+I'm an indie developer and full-time entrepreneur, currently embarking on an exciting building in public journey on [Twitter](https://x.com/peaklabs_dev). Join me as I share insights into my life as a core developer at Coolify and my entrepreneurial journey in the tech world.
 
 ## 🛠️ Current Projects & Roles
 
@@ -11,7 +11,7 @@ I'm an indie developer and full-time entrepreneur, currently embarking on an exc
 
 ## 🔮 Upcoming Releases
 
-- 📝 Tech blog WIP (Future home of mind-bending tech insights!)
+- 📝 Tech blog WIP
 - 🚧 Top Secret Project WIP (Psst... stay tuned!)
 
 ## 🧠 About Me
@@ -50,14 +50,14 @@ I'm an indie developer and full-time entrepreneur, currently embarking on an exc
 
 - 🚧 Portfolio WIP
 
-## 📫 Let's Connect and Collaborate!
+## 📫 Let's Connect and Collaborate
 
 - 🐦 Twitter: [@peaklabs_dev](https://twitter.com/peaklabs_dev)
 - 💬 Discord: [@peaklabs_dev](https://discord.com/channels/peaklabs_dev)
-- 📧 Email: (Coming Soon!)
-- 🔗 LinkedIn: (Coming Soon!)
+- 📧 Email: (Coming Soon)
+- 🔗 LinkedIn: (Coming Soon)
 
-Don't hesitate to reach out! Whether you want to discuss the latest tech trends, start a new software company, collaborate on a project, or just chat about the weather on Mars, I'm all ears!
+Don't hesitate to reach out. Whether you want to discuss the latest tech trends, start a new software company, collaborate on a project, or just chat about the weather on Mars, I'm all ears.
 
 ## 🏆 My Success Journey
 
