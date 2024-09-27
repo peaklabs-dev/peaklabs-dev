@@ -1,6 +1,6 @@
-# 🏔️ Hello World! I'm Peaklabs (aka Peak) 👋
+# Hello World! I'm Peaklabs (aka Peak) 👋
 
-## 🚀 Indie Developer | 🌍 Full-time Entrepreneur | 🧑‍💻 Core Coolify Developer
+## 🌍 Full-time Entrepreneur | 🧑‍💻 Core Coolify Developer
 
 I'm an indie developer and full-time entrepreneur, currently embarking on an exciting building in public journey on [Twitter](https://x.com/peaklabs_dev). Join me as I share insights into my life as a core developer at Coolify and my entrepreneurial journey in the tech world.
 
@@ -63,11 +63,15 @@ Don't hesitate to reach out. Whether you want to discuss the latest tech trends,
 
 | Date | Milestone |
 |------|-----------|
-| 🌱 08.11.2023 | Discovered the magic of Coolify and started using it |
-| 💡 08.06.2024 | Began issue reporting and opening feature requests for Coolify |
-| 🚀 05.08.2024 | Kicked off daily Coolify contributions |
-| 🎉 04.09.2024 | Joined CoolLabs as a core Coolify developer for a trial month (spoiler: it went well!) |
-| 👨‍🍳 xx.10.2024 | Officially became a core Coolify developer at CoolLabs |
+| 21.07.2022 | Entered Cybersecurity field |
+| 10.08.2022 | Started WordPress Development |
+| 11.11.2022 | Launched my first business a Cybersecurity e-learning company |
+| 01.11.2023 | Became a WordPress professional |
+| 08.11.2023 | Discovered and started using Coolify |
+| 18.07.2024 | My first business venture failed |
+| 05.08.2024 | Kicked off daily Coolify contributions |
+| 04.09.2024 | Joined CoolLabs as a core Coolify developer for a trial month (spoiler: it went well!) |
+| 26.09.2024 | Officially became a core Coolify developer at CoolLabs |
 
 #
 
