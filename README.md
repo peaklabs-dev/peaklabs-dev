@@ -13,14 +13,17 @@ I'm an indie developer and full-time entrepreneur, currently embarking on an exc
 
 - 📝 Tech blog
 
-## 🧠 About Me
+## 🏔️ About Me
 
+- 💻 Software developer.
 - 🔐 Cybersecurity enthusiast.
-- 🤔 Professional question asker.
-- 🐛 Expert at creating, finding and fixing bugs.
-- 📚 Perpetual learner, constantly expanding my tech horizons.
-- 🚀 Turning the impossible into reality.
-
+- 🐛 Expert at creating, finding, and squashing bugs.
+- 📚 Perpetual learner, constantly expanding my tech horizons across various domains.
+- 🧠 Always striving to stay at the forefront of rapidly evolving tech landscapes.
+- 🏗️ Excited about cutting-edge tech like AI, RISC-V architecture and beyond.
+- 🖥️ Servers are my passion and playground.
+- 🤔 Professional question asker, turning curiosity into innovation.
+  
 ## 💻 Tech Stack & Skills
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
