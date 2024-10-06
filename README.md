@@ -1,6 +1,6 @@
 # Hello World! I'm Peaklabs (aka Peak) 👋
 
-## 🌍 Full-time Entrepreneur | 🧑‍💻 Core Coolify Developer
+## 👨‍💻 Full-time Entrepreneur | 👨‍🍳 Core Coolify Developer
 
 I'm an indie developer and full-time entrepreneur, currently embarking on an exciting building in public journey on [Twitter](https://x.com/peaklabs_dev). Join me as I share insights into my life as a core developer at Coolify and my entrepreneurial journey in the tech world.
 
@@ -9,10 +9,9 @@ I'm an indie developer and full-time entrepreneur, currently embarking on an exc
 - 🧊 Core Developer at [CoolLabs](https://github.com/coollabsio), crafting the future of [Coolify](https://coolify.io/?ref=peaklabs-dev) together with [@andrasbacsai](https://github.com/andrasbacsai).
 - 👨‍🍳 Known as one of the "core containers" or "the cook" in the Coolify universe (always cooking up something delicious for the next release!).
 
-## 🔮 Upcoming Releases
+## 🚀 Upcoming Releases
 
-- 📝 Tech blog WIP
-- 🚧 Top Secret Project WIP (Psst... stay tuned!)
+- 📝 Tech blog
 
 ## 🧠 About Me
 
@@ -20,7 +19,7 @@ I'm an indie developer and full-time entrepreneur, currently embarking on an exc
 - 🤔 Professional question asker.
 - 🐛 Expert at creating, finding and fixing bugs.
 - 📚 Perpetual learner, constantly expanding my tech horizons.
-- 🚀 Turning the impossible into reality, one line of code at a time.
+- 🚀 Turning the impossible into reality.
 
 ## 💻 Tech Stack & Skills
 
@@ -53,7 +52,7 @@ I'm an indie developer and full-time entrepreneur, currently embarking on an exc
 ## 📫 Let's Connect and Collaborate
 
 - 🐦 Twitter: [@peaklabs_dev](https://twitter.com/peaklabs_dev)
-- 💬 Discord: [@peaklabs_dev](https://discord.com/channels/peaklabs_dev)
+- 💬 Discord: (Coming Soon)
 - 📧 Email: (Coming Soon)
 - 🔗 LinkedIn: (Coming Soon)
 
@@ -63,15 +62,15 @@ Don't hesitate to reach out. Whether you want to discuss the latest tech trends,
 
 | Date | Milestone |
 |------|-----------|
-| 21.07.2022 | Entered Cybersecurity field |
-| 10.08.2022 | Started WordPress Development |
-| 11.11.2022 | Launched my first business a Cybersecurity e-learning company |
+| 07.21.2022 | Entered cybersecurity field |
+| 10.08.2022 | Started WordPress development |
+| 11.11.2022 | Launched my first business a cybersecurity e-learning company |
 | 01.11.2023 | Became a WordPress professional |
 | 08.11.2023 | Discovered and started using Coolify |
 | 18.07.2024 | My first business venture failed |
 | 05.08.2024 | Kicked off daily Coolify contributions |
 | 04.09.2024 | Joined CoolLabs as a core Coolify developer for a trial month (spoiler: it went well!) |
-| 26.09.2024 | Officially became a core Coolify developer at CoolLabs |
+| 26.09.2024 | Officially joined CoolLabs as a core Coolify developer |
 
 #
 
